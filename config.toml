@@ -1,0 +1,42 @@
+# The URL the site will be built for
+base_url = "https://ra.mage.rocks"
+
+title = "𓁜 . 🧙 . 🤘"
+description = "Ra mage  ˖࿐ Solar Punk"
+
+# The default language; used in feeds.
+default_language = "en"
+generate_feed = true
+# Whether to automatically compile all Sass files in the sass directory
+compile_sass = true
+
+# Whether to build a search index to be used later on by a JavaScript library
+build_search_index = false
+
+theme = "zola-theme-terminimal"
+
+[markdown]
+# Whether to do syntax highlighting
+# Theme can be customised by setting the `highlight_theme` variable to a theme supported by Zola
+highlight_code = false
+
+[extra]
+logo_text = "Ra Mage ˖࿐ Solar Punk"
+accent_color = "green"
+background_color = "dark"
+author = "Ryan Ramage "
+show_author = true
+show_categories = true
+show_tags = true
+main_menu=false
+## menu is enabled by adding menu_items (optional)
+menu_items = [
+    # each of these is optional, name and url are required
+    # $BASE_URL is going to be substituted by base_url from configuration
+    {name = "blog", url = "$BASE_URL"}, 
+    {name = "github", url = "https://github.com/ryanramage", newtab = true},
+    {name = "soundcloud", url = "https://soundcloud.com/ra-mage", newtab = true},
+    {name = "bluesky", url = "https://bsky.app/profile/ramage.in", newtab = true},
+    
+]
+
