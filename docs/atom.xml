@@ -5,8 +5,65 @@
     <link rel="self" type="application/atom+xml" href="https://ra.mage.rocks/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://ra.mage.rocks"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-04-24T00:00:00+00:00</updated>
+    <updated>2024-04-25T00:00:00+00:00</updated>
     <id>https://ra.mage.rocks/atom.xml</id>
+    <entry xml:lang="en">
+        <title>New To Solarpunk?</title>
+        <published>2024-04-25T00:00:00+00:00</published>
+        <updated>2024-04-25T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ra.mage.rocks/2024-04-25-new-to-solarpunk/"/>
+        <id>https://ra.mage.rocks/2024-04-25-new-to-solarpunk/</id>
+        
+        <content type="html" xml:base="https://ra.mage.rocks/2024-04-25-new-to-solarpunk/">&lt;p&gt;Here is an interesting video for people that are looking to start with solarpunk. I&#x27;m not a fan of the background images, but the content is interesting.&lt;&#x2F;p&gt;
+&lt;p&gt;I&#x27;ve embedded the video for you to watch, and have added a summary below of the first section on concepts that conflict with solarpunk.&lt;&#x2F;p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https:&#x2F;&#x2F;www.youtube-nocookie.com&#x2F;embed&#x2F;9ij47sWnpeA?si=cpqANVBEQN6F9Pug&amp;amp;start=62&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;
+&lt;&#x2F;iframe&gt;
+&lt;h2 id=&quot;my-highlights-on-conflicting-concepts&quot;&gt;My Highlights on Conflicting Concepts&lt;&#x2F;h2&gt;
+&lt;p&gt;The video outlined some concepts that conflict with solarpunk and why. I have transcribed these here for your reference.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;capitalism&quot;&gt;Capitalism&lt;&#x2F;h3&gt;
+&lt;p&gt;Capitalism conflicts with solarpunk because it incentivizes individuals to extract more than they contribute, at the expense of other people and the planet. Additionally, profit motives lead to overproduction and planned obsolescence, which wastes resources.&lt;&#x2F;p&gt;
+&lt;p&gt;While transitions toward sustainability can occur within the present capitalist economy,
+it&#x27;s largely considered incompatible in the long term with a society in which resources are consumed and replenished responsibly.&lt;&#x2F;p&gt;
+&lt;p&gt;This is because capitalism is a zero-sum system. Corporations and businesses underpaying workers, including outsourcing, is how shareholders and management can rake in such huge bonuses.&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;ecofascism&quot;&gt;Ecofascism&lt;&#x2F;h3&gt;
+&lt;p&gt;Ecofascism blames climate change on overpopulation and asserts that population control is a best path to prevent further climate change.
+Ecofascism goes together with eugenics, which in turn is based in racism, ableism, and classism.
+If you believe that reducing the population is necessary, a group of people must be selected to have their population reduced, which is eugenics.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;There is no place for ecofascism in solarpunk because there&#x27;s no place for racism, ableism, or classism in solarpunk.&lt;&#x2F;strong&gt;&lt;&#x2F;p&gt;
+&lt;h3 id=&quot;greenwashing&quot;&gt;Greenwashing.&lt;&#x2F;h3&gt;
+&lt;p&gt;Greenwashing is a marketing strategy companies use to make customers think their product is more environmentally
+friendly than it is. This marketing tactic profits on people&#x27;s desire to
+protect the environment without the company putting in the money and effort
+to make meaningful improvements. When you see something being marketed as green,
+make sure to investigate the details and think about what is not being said. &lt;&#x2F;p&gt;
+&lt;h3 id=&quot;anarcho-primitivism&quot;&gt;Anarcho-primitivism.&lt;&#x2F;h3&gt;
+&lt;p&gt;Anarcho-primitivism is a movement towards
+anarchist, pre-industrial, and often pre-agricultural ways of living.
+Anarcho-primitivism asserts that social injustice was initiated or exacerbated by
+agriculture and later by industrialization. Anarcho-primitivism is
+the least controversial of these conflicting concepts, but often drives
+debates between those who embrace technology as a tool for solving social
+and environmental problems and those who embrace traditional or existing tools.&lt;&#x2F;p&gt;
+&lt;p&gt;Because of the variety in style and technological development found within
+solarpunk, anarcho-primitivism represents an extreme end of a spectrum in
+which the dividing line is a frequent subject of friendly debate. Common
+critiques of the anarcho-primitivism center around misanthropy against
+humanity, romanticization of indigenous culture, and ableism. &lt;&#x2F;p&gt;
+&lt;p&gt;Additionally, solarpunk is conceived as being high tech where sensible, while anarcho-primitivism demands low tech or no tech. There may be some aesthetic overlap
+between the two depending on your favorite flavor of solarpunk.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;strong&gt;Solarpunk is not primitivist.&lt;&#x2F;strong&gt; &lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>Steps to Solarpunk</title>
         <published>2024-04-24T00:00:00+00:00</published>
