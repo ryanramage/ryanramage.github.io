@@ -4,14 +4,16 @@ slug = "2024-04-25-new-to-solarpunk"
 date = 2024-04-25
 +++
 
-Here is an interesting video for people that are looking to start with solarpunk. I'm not a fan of the background images, but the content is interesting.
+For those new to solarpunk, I recommend watching this insightful video on the subject. 
+While I find the background video clips distracting, the content offers valuable perspectives. 
+The video begins by contrasting certain concepts with solarpunk ideals.
 
-I've embedded the video for you to watch, and have added a summary below of the first section on concepts that conflict with solarpunk.  
+I’ve included the video for you to watch, and have provided a summary of its key points below.
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9ij47sWnpeA?si=cpqANVBEQN6F9Pug&amp;start=62" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
 </iframe>
 
-## My Highlights on Conflicting Concepts 
+## Concepts that Conflict With Solarpunk
 
 The video outlined some concepts that conflict with solarpunk and why. I have transcribed these here for your reference.
 
