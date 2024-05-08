@@ -5,8 +5,35 @@
     <link rel="self" type="application/atom+xml" href="https://ra.mage.rocks/atom.xml"/>
     <link rel="alternate" type="text/html" href="https://ra.mage.rocks"/>
     <generator uri="https://www.getzola.org/">Zola</generator>
-    <updated>2024-04-25T00:00:00+00:00</updated>
+    <updated>2024-05-08T00:00:00+00:00</updated>
     <id>https://ra.mage.rocks/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Stargazer App</title>
+        <published>2024-05-08T00:00:00+00:00</published>
+        <updated>2024-05-08T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            
+              Unknown
+            
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://ra.mage.rocks/2024-05-08-stargazer-app/"/>
+        <id>https://ra.mage.rocks/2024-05-08-stargazer-app/</id>
+        
+        <content type="html" xml:base="https://ra.mage.rocks/2024-05-08-stargazer-app/">&lt;p&gt;What&#x27;s more solarpunk than imagining a hopeful future, choosing a hero, and creating an amazing story around them. &lt;&#x2F;p&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;www.ironswornrpg.com&#x2F;product-ironsworn-starforged&quot;&gt;Starforged&lt;&#x2F;a&gt; is a TTRPG system that is designed to get you in the action fast, in a world you want to explore.&lt;&#x2F;p&gt;
+&lt;p&gt;Here is what the screenwriter Daniel Abraham, author of the Expanse series, has to say about it:&lt;&#x2F;p&gt;
+&lt;blockquote class=&quot;bluesky-embed&quot; data-bluesky-uri=&quot;at:&#x2F;&#x2F;did:plc:ndglohgidzmlo5vbjt5breli&#x2F;app.bsky.feed.post&#x2F;3kredqbgj2c2c&quot; data-bluesky-cid=&quot;bafyreigtpxdtlc7s3fvd4l72uxbvzje2cqslaqxqvijlujlkr627ttdlpu&quot;&gt;&lt;p lang=&quot;en&quot;&gt;I was really impressed by Ironsworn.  We only did a couple sessions, but the play generated some of the most memorable gaming story I’ve done.&lt;&#x2F;p&gt;&amp;mdash; Daniel Abraham (&lt;a href=&quot;https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;did:plc:ndglohgidzmlo5vbjt5breli?ref_src=embed&quot;&gt;@abraham.bsky.social&lt;&#x2F;a&gt;) &lt;a href=&quot;https:&#x2F;&#x2F;bsky.app&#x2F;profile&#x2F;did:plc:ndglohgidzmlo5vbjt5breli&#x2F;post&#x2F;3kredqbgj2c2c?ref_src=embed&quot;&gt;Apr 30, 2024 at 9:57 AM&lt;&#x2F;a&gt;&lt;&#x2F;blockquote&gt;&lt;script async src=&quot;https:&#x2F;&#x2F;embed.bsky.app&#x2F;static&#x2F;embed.js&quot; charset=&quot;utf-8&quot;&gt;&lt;&#x2F;script&gt;
+&lt;p&gt;Yes, he said Ironsworn, but that is the same system.&lt;&#x2F;p&gt;
+&lt;p&gt;If you are looking to play it, there is an amazing app called &lt;a href=&quot;https:&#x2F;&#x2F;github.com&#x2F;nboughton&#x2F;stargazer&quot;&gt;stargazer&lt;&#x2F;a&gt; that helps you manage the game, and create a journal.&lt;&#x2F;p&gt;
+&lt;p&gt;I like it, so I made the app work on e-ink, and put that version here &lt;a href=&quot;https:&#x2F;&#x2F;ra.mage.rocks&#x2F;stargazer&#x2F;&quot;&gt;https:&#x2F;&#x2F;ra.mage.rocks&#x2F;stargazer&#x2F;&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;I have a secret project with the app that I hope to reveal in the near future. Stay tuned...&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
     <entry xml:lang="en">
         <title>New To Solarpunk?</title>
         <published>2024-04-25T00:00:00+00:00</published>

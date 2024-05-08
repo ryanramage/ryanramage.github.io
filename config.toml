@@ -37,6 +37,7 @@ menu_items = [
     {name = "github", url = "https://github.com/ryanramage", newtab = true},
     {name = "soundcloud", url = "https://soundcloud.com/ra-mage", newtab = true},
     {name = "bluesky", url = "https://bsky.app/profile/ramage.in", newtab = true},
+    {name = "stargazer [eink]", url="https://ra.mage.rocks/stargazer/", newtab = true}
     
 ]
 
