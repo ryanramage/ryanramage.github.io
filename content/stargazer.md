@@ -2,7 +2,7 @@
 title = "Stargazer App"
 slug = "2024-05-08-stargazer-app"
 date = 2024-05-08
-
+description = "Starforged and amazing rpg, and my E-ink stargazer app"
 +++
 
 What's more solarpunk than imagining a hopeful future, choosing a hero, and creating an amazing story around them. 

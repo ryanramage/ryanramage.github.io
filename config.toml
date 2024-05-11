@@ -29,6 +29,8 @@ show_author = true
 show_categories = true
 show_tags = true
 main_menu=false
+page_titles = "combined"
+
 ## menu is enabled by adding menu_items (optional)
 menu_items = [
     # each of these is optional, name and url are required
